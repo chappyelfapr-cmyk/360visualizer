@@ -1,2 +1,0 @@
-# 360visualizer
-prueba
